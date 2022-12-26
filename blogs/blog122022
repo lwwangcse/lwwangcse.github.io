@@ -1,0 +1,1356 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=unicode">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="章鱼测试.fld/filelist.xml">
+<link rel=Edit-Time-Data href="章鱼测试.fld/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Liwei Wang (CSD)</o:Author>
+  <o:LastAuthor>Liwei Wang (CSD)</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>265</o:TotalTime>
+  <o:Created>2022-12-26T10:11:00Z</o:Created>
+  <o:LastSaved>2022-12-26T10:11:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>540</o:Words>
+  <o:Characters>3083</o:Characters>
+  <o:Lines>25</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3616</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="章鱼测试.fld/themedata.thmx">
+<link rel=colorSchemeMapping href="章鱼测试.fld/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>210</w:Zoom>
+  <w:HideSpellingErrors/>
+  <w:HideGrammaticalErrors/>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-HK</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:FangSong;
+	panose-1:2 1 6 9 6 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-2147482945 953122042 22 0 262145 0;}
+@font-face
+	{font-family:"\@FangSong";
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-2147482945 953122042 22 0 262145 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1884828608;
+	mso-list-type:hybrid;
+	mso-list-template-ids:33707484 -501866236 134807577 134807579 134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-HK link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p align=center style='text-align:center'><span lang=ZH-CN style='font-size:
+14.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>从章鱼测试</span><span
+style='font-size:14.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:14.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>浅谈</span><span class=SpellE><span
+style='font-size:14.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>ChatGPT</span></span><span
+style='font-size:14.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'><o:p></o:p></span></p>
+
+<p align=center style='text-align:center'><span lang=ZH-CN style='font-family:
+FangSong;mso-bidi-font-family:SimSun'>王历伟</span><span style='font-family:FangSong;
+mso-bidi-font-family:SimSun'>,2022/12/20<span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
+
+<p align=center style='text-align:center'><span lang=ZH-CN style='font-size:
+9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>发布于个人主页</span><span
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>
+https://lwwangcse.github.io<span lang=ZH-CN>，转载需邮件作者本人征得同意</span></span><span
+style='font-family:FangSong;mso-bidi-font-family:SimSun'><o:p></o:p></span></p>
+
+<p><span lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>最近</span><span class=SpellE><span style='font-size:11.0pt;font-family:
+FangSong;mso-bidi-font-family:SimSun'>OpenAI</span></span><span lang=ZH-CN
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>的</span><span
+class=SpellE><span style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>ChatGPT</span></span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>让行业内外都产生了浓厚的兴趣。</span><span
+class=SpellE><span style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>ChatGPT</span></span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>可以给我们带来怎样的思考？网上已经有很多讨论</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>GPT<span
+lang=ZH-CN>系列的技术路线的文章，在此，我想从章鱼测试的角度，来开启对</span><span class=SpellE>ChatGPT</span><span
+lang=ZH-CN>的讨论。</span><o:p></o:p></span></p>
+
+<p><span lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>在分析</span><span class=SpellE><span style='font-size:11.0pt;font-family:
+FangSong;mso-bidi-font-family:SimSun'>ChatGPT</span></span><span lang=ZH-CN
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>之前，我想先介绍一下，什么是章鱼</span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>测试</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>[1]<span
+lang=ZH-CN>。学术圈至今对该思想实验的讨论还在继续，但是我觉得这个思想实验更容易让我们认识到语言的意义</span>(meaning)<span
+lang=ZH-CN>和语言的形式</span>(form)<span lang=ZH-CN>的区别。</span>[1]<span lang=ZH-CN>的作者</span><span
+class=SpellE>Bender&amp;Koller</span><span lang=ZH-CN>提出了一个思想实验</span>---<span
+lang=ZH-CN>章鱼测试：两个人</span> A <span lang=ZH-CN>和</span> B <span lang=ZH-CN>独自生活在偏远的岛屿上，但通过跨洋电缆用英语短信与对方交流。一只超级智能的章鱼</span></span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>坐在海底，虽无法到达也无法观察两个岛屿，却可以轻敲电缆并在任意长的时间段内窃听</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>A <span
+lang=ZH-CN>和</span> B<span lang=ZH-CN>的谈话。最终，</span></span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>感到孤独，决定插手谈话，掐断</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>B<span
+lang=ZH-CN>的通讯并冒充其对</span>A<span lang=ZH-CN>进行回复。问题是</span></span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>是否可以无限期地继续这个游戏而不最终引起</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>A<span
+lang=ZH-CN>的怀疑。</span><span class=SpellE>Bender&amp;Koller</span><span
+lang=ZH-CN>提出了几个场景，试想可以拒绝</span></span><span style='font-size:11.0pt;
+font-family:"Apple Color Emoji";mso-ascii-font-family:FangSong;mso-fareast-font-family:
+FangSong;mso-hansi-font-family:FangSong;mso-bidi-font-family:SimSun;mso-char-type:
+symbol-ext;mso-symbol-font-family:"Apple Color Emoji"'>&#128025;</span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>通过测试的想法。</span><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p></o:p></span></p>
+
+<p><span lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>比如，假设</span><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'> A <span lang=ZH-CN>在岛上突然被一只愤怒的熊追赶，抓起几根棍子自卫，并向</span>
+B <span lang=ZH-CN>征求意见。</span>A<span lang=ZH-CN>会问</span>B<span lang=ZH-CN>“</span>Help!
+I<span lang=ZH-CN>’</span>m being chased by a bear! All I have is a stick! What
+do I do?<span lang=ZH-CN>”这个时候，章鱼</span></span><span style='font-size:11.0pt;
+font-family:"Apple Color Emoji";mso-ascii-font-family:FangSong;mso-fareast-font-family:
+FangSong;mso-hansi-font-family:FangSong;mso-bidi-font-family:SimSun;mso-char-type:
+symbol-ext;mso-symbol-font-family:"Apple Color Emoji"'>&#128025;</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'> <span
+lang=ZH-CN>听到了，掐断</span>A<span lang=ZH-CN>和</span>B<span lang=ZH-CN>的联系，开始装作是</span>B<span
+lang=ZH-CN>来回复给</span>A<span lang=ZH-CN>。如果</span></span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-bidi-font-family:SimSun;mso-char-type:symbol-ext;mso-symbol-font-family:
+"Apple Color Emoji"'>&#128025;</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>给出的回复总是“</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>that<span
+lang=ZH-CN>’</span>s scary<span lang=ZH-CN>”又或者 “</span>oh, I don<span
+lang=ZH-CN>’</span>t know<span lang=ZH-CN>”。这样看起来并无事实错误的回复，总归容易让</span>A<span
+lang=ZH-CN>引起怀疑。因为此类问题中，</span>A<span lang=ZH-CN>需要的是提供建议，解决问题的答案。而且这样不能给出实质建议的回复，可以靠语言形式</span>(form)<span
+lang=ZH-CN>的统计规律来给出，并不一定代表理解了语言的意义</span>(meaning)<span lang=ZH-CN>。针对这样的问题，</span><span
+class=SpellE>InstructGPT</span><span lang=ZH-CN>又表现如何呢</span>, <span
+class=SpellE>InstructGPT</span>[2]<span lang=ZH-CN>给出了如下图</span>1<span
+lang=ZH-CN>所示的结果：</span><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-family:FangSong;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt="Graphical user interface, text, application, email&#10;&#10;Description automatically generated"
+ style='width:411pt;height:100pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="章鱼测试.fld/image001.png" o:title="Graphical user interface, text, application, email&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=411 height=100
+src="章鱼测试.fld/image001.png"
+alt="Graphical user interface, text, application, email&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_3"><![endif]></span><span style='font-family:FangSong'><span
+style='mso-spacerun:yes'>                          </span><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>图</span><span
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>1<span
+lang=ZH-CN>：</span><span class=SpellE>InstructGPT</span> API<span lang=ZH-CN>运行结果展示</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>这个</span><span class=SpellE><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>InstructGPT</span></span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>回复结果其实是让人眼前一亮的。</span><span class=SpellE><span style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>InstructGPT</span></span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'> <span
+lang=ZH-CN>和</span> GPT-3<span lang=ZH-CN>之前版本的最重要区别是其论文中提到的，在指令</span>(Instruction)<span
+lang=ZH-CN>指引下，人工标注的新的数据微调</span>(fine-tune)<span lang=ZH-CN>基础的语言模型（</span>Language
+Model<span lang=ZH-CN>），并且采用了人类反馈来强化学习提高。我们需要关注这个重要的区别。</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span class=SpellE><span style='font-size:11.0pt;font-family:
+FangSong;mso-bidi-font-family:SimSun'>ChatGPT</span></span><span lang=ZH-CN
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>按照其网站上所述，和</span><span
+class=SpellE><span style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>InstructGPT</span></span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>准备的数据稍有区别（应该是更多强调了对话数据或者问答数据），但却给出了如下图</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>2<span
+lang=ZH-CN>所示的更详细的回复。</span><span class=SpellE>ChatGPT</span> <span lang=ZH-CN>目前技术细节尚少，但是即使是</span><span
+class=SpellE>InstructGPT</span><span lang=ZH-CN>这个版本的回复，也可以看出相比之前的语言模型</span>(Language
+Model)<span lang=ZH-CN>的巨大进步。而且按照</span><span class=SpellE>InstructGPT</span><span
+lang=ZH-CN>提及的数据标注的数量，仅仅是数万条量级的标注，就可以有这样的性能的提升，十分震撼！</span></span><b><span
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><o:wrapblock><v:shape id="Picture_x0020_1"
+  o:spid="_x0000_s1026" type="#_x0000_t75" alt="Graphical user interface, text&#10;&#10;Description automatically generated"
+  style='position:absolute;margin-left:132pt;margin-top:-295.65pt;width:301.2pt;
+  height:297.05pt;z-index:251659264;visibility:visible;mso-wrap-style:square;
+  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+  mso-position-vertical-relative:page;mso-width-percent:0;mso-height-percent:0;
+  mso-width-relative:page;mso-height-relative:page'>
+  <v:imagedata src="章鱼测试.fld/image002.jpg" o:title="Graphical user interface, text&#10;&#10;Description automatically generated"/>
+  <w:wrap type="topAndBottom" anchory="page"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0 align=left>
+  <tr>
+   <td width=122 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=301 height=297 src="章鱼测试.fld/image002.jpg"
+   alt="Graphical user interface, text&#10;&#10;Description automatically generated"
+   v:shapes="Picture_x0020_1"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+<span style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>图</span><span
+style='font-size:9.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>2<span
+lang=ZH-CN>：</span><span class=SpellE>ChatGPT</span> API<span lang=ZH-CN>运行结果展示</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>目前尚且不知道</span><span class=SpellE><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>ChatGPT</span></span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>用了多少的对话数据来提高模型，不知道成本到底有多高。但是，<b>假设</b>是一个成本可控的方案（即一定时期内，所需的新对话标注数据量有限却依然可以体现出一定的对话理解和生成的泛化能力），<b>那么我这里提出两个可以思考的问题</b>，并针对这些<b>开放问题</b>，结合我所带领的</span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+"Times New Roman";mso-bidi-theme-font:minor-bidi'>香港中文大学</span><span
+class=SpellE><span style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+"Times New Roman";mso-bidi-theme-font:minor-bidi'>LaVi</span></span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'> Lab<span lang=ZH-CN>近期的一些研究工作，来从有限的角度诠释我的理解。</span></span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:FangSong'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong'>从章鱼</span><span
+style='font-size:11.0pt;font-family:"Apple Color Emoji";mso-ascii-font-family:
+FangSong;mso-fareast-font-family:FangSong;mso-hansi-font-family:FangSong;
+mso-char-type:symbol-ext;mso-symbol-font-family:"Apple Color Emoji"'>&#128025;</span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong'>测试的角度看，我们期待的智能系统不能仅仅停留在形式（</span><span
+style='font-size:11.0pt;font-family:FangSong'>form<span lang=ZH-CN>）上，而应该是对语言的意义（</span>meaning<span
+lang=ZH-CN>）有真正的理解。那么，</span><span class=SpellE>ChatGPT</span> <span
+lang=ZH-CN>多大程度上理解了语言的意义</span>(meaning)<span lang=ZH-CN>？如何设计实验或者定义更清楚的问题来有效地验证？</span><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:11.0pt;font-family:
+FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong'>人类交流所使用的的语言是有沟通意图</span><span style='font-size:11.0pt;
+font-family:FangSong'>(<b>communicative intent</b>)<span lang=ZH-CN>的，通过语言的意义关系投射到语言形式上。理解意义</span>(<b>meaning</b>)
+<span lang=ZH-CN>本身也可以看做是从对话的语句表达中找寻对应的沟通意图的关系。假设</span><span class=SpellE>ChatGPT</span><span
+lang=ZH-CN>仅仅需要<b>一定可控数量的交互标注</b>来使得目前的对话理解能力有所极大增强，那么</span><span
+class=SpellE>ChatGPT</span> <span lang=ZH-CN>有可能发现了一条挖掘基础大模型知识来解决对话理解的新路径，也即通过<b>有限量的数据交互和有效的对齐学习（</b></span><b>alignment<span
+lang=ZH-CN>）</span></b><span lang=ZH-CN>，提升对话理解能力。假如这个猜想是对的，那么可以思考一下为什么。有一些对齐强化学习带来的提升，同时，这里，我想从另外两个角度来思考：第一，有限的对话标注是否帮助系统理解了</span>Meaning<span
+lang=ZH-CN>； 第二，有限的标注是否激活了大模型的某些能力能够自动预测推理出来隐含的对话意图的链路，提高了泛化能力，这个对于对话建模研究必将有全新的理解。</span><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:11.0pt;font-family:
+FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong'>我们最近的研究其实也在思考这些个问题。以我们最近</span><span style='font-size:
+11.0pt;font-family:FangSong'>EMNLP 2022 <span lang=ZH-CN>发表的一篇长文</span><span
+class=SpellE>FlowEval</span>[3]<span lang=ZH-CN>为例，着重研究了基于意图的对话流。我们定义了更加原子化的对话意图，原子化的意图带来的好处是可以自由组合形成更长链路的对话流。当时借鉴了传统图像文本解说任务（</span>captioning<span
+lang=ZH-CN>）中用到的一致性打分（</span>consensus score<span lang=ZH-CN>），我于是提出通过从已经见到的对话意图流中找到相似的模式（</span>pattern<span
+lang=ZH-CN>）来给新的对话流进行表达或者评测，这一点也可以一定程度上反映<b>有限的对话标注数据中对话意图的覆盖范围是怎样的。</b></span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:FangSong;
+color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+class=SpellE><span style='font-size:11.0pt;font-family:FangSong'>ChatGPT</span></span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong'>的回复，看起来生成的语言组织结构合理，但如何保证事实也准确？
+评测和校验</span><span class=SpellE><span style='font-size:11.0pt;font-family:FangSong'>Chatgpt</span></span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong'>带来的事实错误，<span
+style='color:black;mso-themecolor:text1'>这个问题也涉及到如何改进语言大模型来减少生成的知识和事实错误。</span></span><span
+style='font-size:11.0pt;font-family:FangSong;color:black;mso-themecolor:text1'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:11.0pt;font-family:
+FangSong;color:black;mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;color:black;mso-themecolor:text1'>我们最近的</span><span
+style='font-size:11.0pt;font-family:FangSong;color:black;mso-themecolor:text1'>EMNLP
+2022 <span lang=ZH-CN>的论文“</span></span><span style='font-size:10.0pt;
+font-family:FangSong;mso-bidi-font-family:SimSun'>Eliciting Knowledge from
+Large Pre-Trained Models</span><span lang=ZH-CN style='font-size:11.0pt;
+font-family:FangSong;color:black;mso-themecolor:text1'>”</span><span
+style='font-size:11.0pt;font-family:FangSong;color:black;mso-themecolor:text1'>[4]<span
+lang=ZH-CN>对大模型中的知识质量给出了一些评判指标，同时也给出了一些将语言大模型的知识灌入下游对话的尝试。目前根据我们的人工评测结果来看，尽管使用维基百科相关数据专门微调过的语言模型在表达常识上有一些优势，同时可以生成质量比较高的事实性知识，但生成的结果里仍然包含大量的错误。虽然如此，语言大模型仍然有非常一些独特优势，如可以对多个事实进行一定程度上的总结回复等。<b>抛砖引玉，希望大家可以继续关注大模型生成的知识准确性和如何改进的问题。大模型虽好，但如何理解评测大模型，如何提升，如何使用帮助下游任务，也是非常具有挑战性的重要方向。</b></span><b><o:p></o:p></b></span></p>
+
+<p class=MsoListParagraphCxSpLast><b><span style='font-size:11.0pt;font-family:
+FangSong;color:black;mso-themecolor:text1'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span class=SpellE><span style='font-size:11.0pt;font-family:
+FangSong;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>ChatGPT</span></span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+"Times New Roman";mso-bidi-theme-font:minor-bidi'>和</span><span class=SpellE><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'>InstructGPT</span></span><span lang=ZH-CN
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'>这种迭代模型可以让原本的语言大模型发生如此巨大改变的方式还是对自然语言对话研究领域有所启发。希望</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'>NLP<span lang=ZH-CN>领域的研究者可以关注这种范式变化。国内的很多科研机构和公司也有很多优秀的研究员和工程师，“</span></span><span
+lang=ZH-CN style='font-size:11.5pt;font-family:FangSong;mso-bidi-font-family:
+SimSun;color:#121212;background:white'>博观而约取，厚积而薄发”我们需要更多理解问题本身，</span><span
+lang=ZH-CN style='font-family:FangSong;mso-bidi-font-family:SimSun'>全神贯注解决亟待解决的问题。</span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+"Times New Roman";mso-bidi-theme-font:minor-bidi'>最后引用两句诗送给全行业的从业者，共勉！</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:FangSong;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'>“</span><span lang=ZH-CN style='font-size:11.5pt;
+font-family:FangSong;mso-bidi-font-family:SimSun;color:#121212;background:white'>长风破浪会有时，直挂云帆济沧海</span><span
+lang=ZH-CN style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:
+"Times New Roman";mso-bidi-theme-font:minor-bidi'>”</span><span
+style='font-size:11.0pt;font-family:FangSong;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi'>---<span lang=ZH-CN>李白</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:FangSong'>有兴趣来一起训练或者研究大模型的小伙伴们，欢迎申请实习，可以邮件联系我。邮件联系方式请见个人主页。有很强的工程经验和相关工程背景会优先考虑，谢谢。</span><span
+style='font-size:10.0pt;font-family:FangSong'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:FangSong'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:FangSong;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:FangSong;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:FangSong;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>Reference:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>[1]: Emily M. Bender and Alexander Koller,
+Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data,
+ACL 2020. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>[2]: Ouyang, Long, et al. &quot;Training language models
+to follow instructions with human feedback.&quot;</span><span style='font-size:
+10.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:FangSong'>&nbsp;</span><span
+class=SpellE><span style='font-size:10.0pt;font-family:FangSong;mso-bidi-font-family:
+SimSun'>arXiv</span></span><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'> preprint arXiv:2203.02155</span><span
+style='font-size:10.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+FangSong'>&nbsp;</span><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>(2022).<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>[3]: Zhao, J., Li, Y., Du, W., Ji, Y., Yu, D., <span
+class=SpellE>Lyu</span>, M.R. and Wang, L., 2022. <span class=SpellE>FlowEval</span>:
+A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows.</span><span
+style='font-size:10.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+FangSong'>&nbsp;</span><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>EMNLP</span><span style='font-size:10.0pt;
+font-family:"Calibri",sans-serif;mso-fareast-font-family:FangSong'>&nbsp;</span><span
+style='font-size:10.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>(2022).<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>[4]: Li, Y., Zhao, J., <span class=SpellE>Lyu</span>,
+M.R. and Wang, L., 2022. Eliciting Knowledge from Large Pre-Trained Models for
+Unsupervised Knowledge-Grounded Conversation.</span><span style='font-size:
+10.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:FangSong'>&nbsp;</span><span
+style='font-size:10.0pt;font-family:FangSong;mso-bidi-font-family:SimSun'>EMNLP</span><span
+style='font-size:10.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+FangSong'>&nbsp;</span><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'>(2022).<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:FangSong;
+mso-bidi-font-family:SimSun'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
